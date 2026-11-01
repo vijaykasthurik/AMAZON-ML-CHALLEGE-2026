@@ -1,0 +1,18 @@
+{
+ "id": "dinnypaulnavis/ber-c12-infer",
+ "title": "ber c12 infer",
+ "code_file": "main.py",
+ "language": "python",
+ "kernel_type": "script",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": [
+  "vijaykasthurik/ber-amazon-ml-2026-data"
+ ],
+ "kernel_sources": [
+  "dinnypaulnavis/ber-t12-train",
+  "vijaykasthurik/ber-b7-testcheap"
+ ],
+ "competition_sources": []
+}

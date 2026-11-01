@@ -1,0 +1,18 @@
+{
+ "id": "vijaykasthurik/ber-c11-infer",
+ "title": "ber c11 infer",
+ "code_file": "main.py",
+ "language": "python",
+ "kernel_type": "script",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": [
+  "vijaykasthurik/ber-amazon-ml-2026-data"
+ ],
+ "kernel_sources": [
+  "vijaykasthurik/ber-t11-train",
+  "vijaykasthurik/ber-b7-testcheap"
+ ],
+ "competition_sources": []
+}

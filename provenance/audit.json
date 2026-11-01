@@ -1,0 +1,24 @@
+{
+  "team": "Green Sync Innovators",
+  "leaderboard_score": 0.983526,
+  "leaderboard_rank_in_supplied_screenshot": 743,
+  "last_submitted_source_folder": "SUBMIT/S_A95_B",
+  "output_sha256": {
+    "matching_results.tsv": "880a576ef8d5ba50809bbf80eebbbf360975e19b7ae9cf3ddf9827050b3d3b58",
+    "candidate_pairs.tsv": "f71e31af900ed5a15856aa3e4e63fa5f3af2b6575321f551a5c4678d1f517a14"
+  },
+  "candidate_construction": {
+    "v11_scored_pairs": 8806261,
+    "selected_pairs_outside_v11": 35176,
+    "unique_candidate_pairs": 8841437,
+    "verified_relation": "candidate_pairs = unique(v11 scored pairs UNION final matches)"
+  },
+  "output_counts": {
+    "source1_rows": 1732544,
+    "matched_pairs": 5766118,
+    "candidate_pairs": 8841437,
+    "empty_matching_rows": 101804,
+    "empty_candidate_rows": 24399
+  },
+  "reproduction_note": "The baseline archive input is byte-identical and v11 scores were recovered. The secondary component supplied after the challenge contains a later output hash, and the private v12 score artifact was unavailable to this packaging account."
+}

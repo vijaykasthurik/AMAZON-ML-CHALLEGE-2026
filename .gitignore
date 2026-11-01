@@ -1,0 +1,59 @@
+# Datasets and Large Data Formats
+DATASET THEY GIVEN/
+*.parquet
+*.tsv
+*.csv
+output/
+outputs/
+cache/
+cache_smoke/
+runs/
+smoke_output/
+smoke_outputs/
+
+# Large Archives & Compression Files
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
+
+# Heavy Working Dirs & Staging Build Folders
+audit_recovery/
+file1_code/
+file2_code/
+final_package_source/
+Friend_/
+Green_Sync_Innovators_submission/
+Green_Sync_Innovators_submission_DRAFT/
+Green_Sync_Innovators_submission_pre_test_fix/
+latest test/
+RETRY_UPLOAD/
+SUBMIT/
+submission_bge_reranker_v2/
+THEIR VEDIO IMAGES/
+solution/
+
+# Model Checkpoints (Heavy Binaries)
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Python & System
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log

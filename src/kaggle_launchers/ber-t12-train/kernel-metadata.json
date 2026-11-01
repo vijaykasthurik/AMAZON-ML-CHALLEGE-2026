@@ -1,0 +1,17 @@
+{
+ "id": "dinnypaulnavis/ber-t12-train",
+ "title": "ber t12 train",
+ "code_file": "main.py",
+ "language": "python",
+ "kernel_type": "script",
+ "is_private": true,
+ "enable_gpu": true,
+ "enable_internet": true,
+ "dataset_sources": [
+  "vijaykasthurik/ber-amazon-ml-2026-data"
+ ],
+ "kernel_sources": [
+  "vijaykasthurik/ber-p7-prep"
+ ],
+ "competition_sources": []
+}
